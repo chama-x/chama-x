@@ -5,10 +5,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="center">Chamath Thiwanka | AI 🧠 | Startups 🚀 | LK 🇱🇰  | Let's Code the World!</p>
 
 ###
