@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.postimg.cc/MHw9jhpy/DSC4372-edo.jpg"  />
-</div>
 
 ###
 
