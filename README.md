@@ -48,7 +48,7 @@
 ###
 
 
-<h2 align="left">Profile Visits</h2>
+<h2 align="left">Profile visits</h2>
 
 ###
 <div align="center">
@@ -64,6 +64,9 @@
 ###
 
 <p align="center"></p>
+###
+
+<h2 align="left">Social media</h2>
 
 ###
 
