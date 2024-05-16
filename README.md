@@ -53,15 +53,6 @@
 
 ###
 
-<p align="center"></p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chama-x&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=My%20Status" height="159" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=chama-x&theme=tokyonight&column=5&row=1&margin-w=13&margin-h=3&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
 ###
 
 <p align="center"></p>
