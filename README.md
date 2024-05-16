@@ -47,6 +47,10 @@
 
 ###
 
+
+<h2 align="left">Profile Visits</h2>
+
+###
 <div align="center">
   <img src="https://profile-counter.glitch.me/chama-x/count.svg?"  />
 </div>
