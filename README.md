@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">Chamath Thiwanka | AI 🧠 | Startups 🚀 | LK 🇱🇰  | Let's Code the World!</p>
+<p align="center">Chamath Thiwanka | AI 🧠 | Cortana 🚀 | LK 🇱🇰  | Let's Code the World!</p>
 
 ###
 
