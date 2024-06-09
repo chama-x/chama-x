@@ -47,15 +47,13 @@
   <img src="https://profile-counter.glitch.me/chama-x/count.svg?"  />
 </div>
 
-###
 
 <p align="center"></p>
 
 ###
 
 <p align="center"></p>
-###
-###
+
 <h2 align="left">Social media</h2>
 
 ###
