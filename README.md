@@ -13,7 +13,7 @@
         </p>
     </div>
 </div>
-
+<br>
 
 
 <h2>
@@ -118,11 +118,6 @@
                     <img src="https://img.shields.io/badge/Instagram-BE0071?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
                 </a>
             </div>
-            <p align="center" style="margin-top: 25px; color: #ffffff; font-size: 18px; font-style: italic; text-shadow: 0 0 20px rgba(190, 0, 85, 0.3);">
-                ✨ "Innovating at the intersection of AI, Coding & Design" ✨
-            </p>
-        </div>
-    </div>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:BE0039,50:BE0055,100:BE0071">
