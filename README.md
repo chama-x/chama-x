@@ -32,41 +32,41 @@
             </tr>
             <tr align="center" style="color: white;">
                 <td style="background: #1a1b27; padding: 12px; border-radius: 8px;">
-                    <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=next.js&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/MERN-1a1b27?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Qwik-1a1b27?style=for-the-badge&logo=qwik&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/PHP-1a1b27?style=for-the-badge&logo=php&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Render-1a1b27?style=for-the-badge&logo=render&logoColor=white" />
+                    <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=next.js&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/MERN-1a1b27?style=for-the-badge&logo=mongodb&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/Qwik-1a1b27?style=for-the-badge&logo=qwik&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/PHP-1a1b27?style=for-the-badge&logo=php&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/Render-1a1b27?style=for-the-badge&logo=render&logoColor=BE3455" />
                 </td>
                 <td style="background: #1a1b27; padding: 12px; border-radius: 8px;">
-                    <img src="https://img.shields.io/badge/Photoshop-1a1b27?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Illustrator-1a1b27?style=for-the-badge&logo=adobe-illustrator&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/DaVinci_Resolve-1a1b27?style=for-the-badge&logo=blackmagic-design&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Blender-1a1b27?style=for-the-badge&logo=blender&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/After_Effects-1a1b27?style=for-the-badge&logo=adobe-after-effects&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Canva-1a1b27?style=for-the-badge&logo=canva&logoColor=white" />
+                    <img src="https://img.shields.io/badge/Photoshop-1a1b27?style=for-the-badge&logo=adobe-photoshop&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/Illustrator-1a1b27?style=for-the-badge&logo=adobe-illustrator&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/DaVinci_Resolve-1a1b27?style=for-the-badge&logo=blackmagic-design&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/Blender-1a1b27?style=for-the-badge&logo=blender&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/After_Effects-1a1b27?style=for-the-badge&logo=adobe-after-effects&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/Canva-1a1b27?style=for-the-badge&logo=canva&logoColor=CC3D5F" />
                 </td>
                 <td style="background: #1a1b27; padding: 12px; border-radius: 8px;">
-                    <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/SQLite-1a1b27?style=for-the-badge&logo=sqlite&logoColor=white" />
+                    <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=BE3455" /><br>
+                    <img src="https://img.shields.io/badge/SQLite-1a1b27?style=for-the-badge&logo=sqlite&logoColor=BE3455" />
                 </td>
                 <td style="background: #1a1b27; padding: 12px; border-radius: 8px;">
-                    <img src="https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Render-1a1b27?style=for-the-badge&logo=render&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Replicate-1a1b27?style=for-the-badge&logo=replicate&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Heroku-1a1b27?style=for-the-badge&logo=heroku&logoColor=white" /><br>
-                    <img src="https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=white" />
+                    <img src="https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/Render-1a1b27?style=for-the-badge&logo=render&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/Replicate-1a1b27?style=for-the-badge&logo=replicate&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/Heroku-1a1b27?style=for-the-badge&logo=heroku&logoColor=CC3D5F" /><br>
+                    <img src="https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=CC3D5F" />
                 </td>
             </tr>
         </table>
