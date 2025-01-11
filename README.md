@@ -9,7 +9,7 @@
 <div style="background: linear-gradient(45deg, #BE0039, #BE0071); padding: 3px; border-radius: 20px; margin: 30px 0; box-shadow: 0 4px 15px rgba(190, 0, 85, 0.2);">
     <div style="background: #1a1b27; padding: 30px; border-radius: 18px; border: 1px solid rgba(190, 0, 85, 0.1);">
         <p align="center" style="font-size: 16px; line-height: 1.6; color: #ffffff; text-shadow: 0 0 20px rgba(190, 0, 85, 0.3);">
-           Programmer by day, Creative Designer by night. I'm Chamath Thiwanka, a Sri Lankan developer passionate about creating extraordinary digital experiences. Currently building the future at <a href="https://cortana.lk" style="color: #BE0055; text-decoration: none; border-bottom: 1px dotted #BE0055;">@Cortana-Devs</a>, where we transform ideas into reality.
+           Programmer by day, Creative Designer by night. I'm Chamath Thiwanka, Sri Lanka's first Digital Experience Architect passionate about creating extraordinary digital experiences. Currently building the future at <a href="https://cortana.lk" style="color: #BE0055; text-decoration: none; border-bottom: 1px dotted #BE0055;">@Cortana-Devs</a>, where we transform ideas into reality.
         </p>
     </div>
 </div>
