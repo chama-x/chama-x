@@ -114,7 +114,7 @@
                 <a href="https://facebook.com/chamax.LK" style="text-decoration: none;">
                     <img src="https://img.shields.io/badge/Facebook-BE0055?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
                 </a>
-                <a href="https://instagram.com/chamax" style="text-decoration: none;">
+                <a href="https://www.instagram.com/_chama_x_" style="text-decoration: none;">
                     <img src="https://img.shields.io/badge/Instagram-BE0071?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
                 </a>
             </div>
