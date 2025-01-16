@@ -10,7 +10,7 @@
     <div style="background: #1a1b27; padding: 30px; border-radius: 18px; border: 1px solid rgba(190, 0, 85, 0.1);">
         <p align="center" style="font-size: 16px; line-height: 1.6; color: #ffffff; text-shadow: 0 0 20px rgba(190, 0, 85, 0.3);">
 <p>
-  Creator at heart, builder by trade. I’m Chamath Thiwanka, Sri Lanka's first Digital Experience Architect dedicated to designing impactful, user-centered solutions. Currently shaping the future at <a href="https://cortana.lk" style="color: #BE0055; text-decoration: none; border-bottom: 1px dotted #BE0055;">@Cortana-Devs</a>, where innovation meets reality.
+  I architect digital experiences that convert dreams into revenue - with precision, purpose, and proof.. Currently shaping the future at <a href="https://cortana.lk" style="color: #BE0055; text-decoration: none; border-bottom: 1px dotted #BE0055;">@Cortana-Devs</a>, where innovation meets reality.
 </p>
         </p>
     </div>
