@@ -1,17 +1,17 @@
-name: generate animation
+name: Generate Snake Animation
 
 on:
-  # Run automatically every 24 hours
+  # Runs automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *"
-  
+
   # Allows manual trigger
   workflow_dispatch:
-  
-  # Run on every push to the master branch
+
+  # Runs on push to the main branch
   push:
     branches:
-      - master
+      - main  # Change this if your default branch is 'master'
 
 jobs:
   generate:
@@ -25,23 +25,25 @@ jobs:
         uses: actions/checkout@v3
 
       # Generate the snake animation
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: chama-x  # Your GitHub username here
+          github_user_name: chama-x  # Change this to your GitHub username
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Debugging step: Check if the files exist
+      # Debugging step: Check if files were created
       - name: List output files
-        run: ls -la dist
+        run: |
+          mkdir -p dist  # Ensure folder exists
+          ls -la dist
 
-      # Push the SVG to the output branch
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      # Push the SVG files to the gh-pages branch
+      - name: Deploy Snake Animation to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: gh-pages  # GitHub Pages branch
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
