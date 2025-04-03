@@ -38,7 +38,7 @@ My approach is guided by a core philosophy balancing structure and innovation, h
 interface TechApproach {
   readonly corePrinciple: "Duality Doctrine (Order × Chaos)";
   nonNegotiables: [
-    `Pragmatic APIs (No BS)`,
+    "Pragmatic APIs (No BS)",
     "Design-Led Development", // Emphasizing design background
     "Localized Context & Value"
   ];
