@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=CHX&color=0:2A2A2A,100:1A1A1A&fontColor=E0E0E0&fontSize=70&desc=Sri+Lankan+Roots,+World-Class+Tech&descAlignY=68&animation=fadeIn&fontAlignY=45" alt="CHX - Sri Lankan Roots, World-Class Tech">
 <div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; color: #0F0F0F !important; border: none !important; display: inline-block;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; color: #0F0F0F !important; border: none !important; display: inline-block;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&duration=4000&pause=1000&color=909090&width=430&lines=Precision+Engineering;Design-Driven+Development;World-Class+Solutions;Building+with+Integrity" alt="Typing SVG - Precision Engineering; Design-Driven Development; World-Class Solutions; Building with Integrity" style="max-width: 100%; display: block; border: none !important; outline: none !important; vertical-align: middle;"/>
   </a>
 </div>
