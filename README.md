@@ -29,6 +29,21 @@
 > CH crafts the vision with Clarity & Harmony. The 'X'? That's the eXtraordinary results I bring to life. Ready to see yours?
 
 </div>
+
+<br/>
+
+<br/> <div align="center">
+  <a href="https://www.linkedin.com/in/chamath-thiwanka/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="./assets/in.png" alt="LinkedIn" width="48"/>
+  </a>
+  <a href="https://x.com/__chamath___" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="./assets/x.png" alt="X (formerly Twitter)" width="48"/>
+  </a>
+  <a href="https://cortana.lk" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="./assets/c.png" alt="Cortana.lk Website" width="48"/>
+  </a>
+</div>
+
 <br/>
 <div align="center">
   <picture>
