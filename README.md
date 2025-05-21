@@ -30,9 +30,9 @@
 
 </div>
 
-<br/>
 
-<br/> <div align="center">
+
+ <div align="center">
   <a href="https://www.linkedin.com/in/chamath-thiwanka/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none !important; color: #0F0F0F !important; border: none !important;"><img src="https://raw.githubusercontent.com/chama-x/chama-x/main/in.png" alt="LinkedIn" width="100" style="max-width: 100%; display: block; border: none !important; outline: none !important; vertical-align: middle;"/></a>
   <a href="https://cortana.lk" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none !important; color: #0F0F0F !important; border: none !important;"><img src="https://raw.githubusercontent.com/chama-x/chama-x/main/c.png" alt="Cortana.lk Website" width="100" style="max-width: 100%; display: block; border: none !important; outline: none !important; vertical-align: middle;"/></a>
   <a href="https://x.com/__chamath___" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none !important; color: #0F0F0F !important; border: none !important;"><img src="https://raw.githubusercontent.com/chama-x/chama-x/main/x.png" alt="X (formerly Twitter)" width="100" style="max-width: 100%; display: block; border: none !important; outline: none !important; vertical-align: middle;"/></a>
