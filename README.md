@@ -24,8 +24,10 @@
 
 ---
 
-<br/>
+> CH crafts the vision with Clarity & Harmony. The 'X'? That's the eXtraordinary results I bring to life. Ready to see yours?
 
+
+<br/>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chama-x/chama-x/gh-pages/github-contribution-grid-snake-dark.svg" />
