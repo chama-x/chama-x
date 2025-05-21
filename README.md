@@ -7,159 +7,148 @@
 
 <br/>
 
-## 🛠️ My Technical Toolkit
+## My Technical Toolkit
+Here's a snapshot of the primary technologies and tools I leverage, though this list, like any good codebase, is always a work in progress:
 
-Here's a snapshot of the primary technologies and tools I leverage, organized for clarity:
+<br/>
 
-### Programming Languages
+<img src="https://img.shields.io/static/v1?label=&message=Programming%20Languages&color=4A4A4A&style=flat-square&logoColor=E0E0E0&labelColor=4A4A4A" alt="Programming Languages Subheading"/>
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Python&color=2A2A2A&logo=python&logoColor=E0E0E0&style=for-the-badge" alt="Python"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Python&color=2A2A2A&logo=python&logoColor=E0E0E0&style=flat-square" alt="Python"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=2A2A2A&logo=node.js&logoColor=E0E0E0&style=for-the-badge" alt="Node.js"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=2A2A2A&logo=node.js&logoColor=E0E0E0&style=flat-square" alt="Node.js"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=2A2A2A&logo=typescript&logoColor=E0E0E0&style=for-the-badge" alt="TypeScript"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=TS&color=2A2A2A&logo=typescript&logoColor=E0E0E0&style=flat-square" alt="TypeScript"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Rust%20(Learning)&color=2A2A2A&logo=rust&logoColor=E0E0E0&style=for-the-badge" alt="Rust (Learning)"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Rust%20(L)&color=2A2A2A&logo=rust&logoColor=E0E0E0&style=flat-square" alt="Rust (L) "/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Bash&color=2A2A2A&logo=gnu-bash&logoColor=E0E0E0&style=for-the-badge" alt="Bash"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Bash&color=2A2A2A&logo=gnu-bash&logoColor=E0E0E0&style=flat-square" alt="Bash"/>
     </td>
-    <td align="center" width="33%">
-      </td>
-  </tr>
+    <td>...</td> </tr>
 </table>
+<br/>
 
-### Frontend Development
+<img src="https://img.shields.io/static/v1?label=&message=Frontend%20Development&color=4A4A4A&style=flat-square&logoColor=E0E0E0&labelColor=4A4A4A" alt="Frontend Development Subheading"/>
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=React&color=2A2A2A&logo=react&logoColor=E0E0E0&style=for-the-badge" alt="React"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=React&color=2A2A2A&logo=react&logoColor=E0E0E0&style=flat-square" alt="React"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=2A2A2A&logo=next.js&logoColor=E0E0E0&style=for-the-badge" alt="Next.js"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=2A2A2A&logo=next.js&logoColor=E0E0E0&style=flat-square" alt="Next.js"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=2A2A2A&logo=tailwind-css&logoColor=E0E0E0&style=for-the-badge" alt="Tailwind CSS"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Tailwind&color=2A2A2A&logo=tailwind-css&logoColor=E0E0E0&style=flat-square" alt="Tailwind CSS"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Qwik&color=2A2A2A&logo=qwik&logoColor=E0E0E0&style=for-the-badge" alt="Qwik"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Qwik&color=2A2A2A&logo=qwik&logoColor=E0E0E0&style=flat-square" alt="Qwik"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Flutter%20(Learning)&color=2A2A2A&logo=flutter&logoColor=E0E0E0&style=for-the-badge" alt="Flutter (Learning)"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Flutter%20(L)&color=2A2A2A&logo=flutter&logoColor=E0E0E0&style=flat-square" alt="Flutter (L)"/>
     </td>
-    <td align="center" width="33%">
-      </td>
-  </tr>
+    <td>...</td> </tr>
 </table>
+<br/>
 
-### Backend Technologies
+<img src="https://img.shields.io/static/v1?label=&message=Backend%20Technologies&color=4A4A4A&style=flat-square&logoColor=E0E0E0&labelColor=4A4A4A" alt="Backend Technologies Subheading"/>
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Axum%20(Learning)&color=2A2A2A&logo=rust&logoColor=E0E0E0&style=for-the-badge" alt="Axum (Learning with Rust)"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Axum%20(L)&color=2A2A2A&logo=rust&logoColor=E0E0E0&style=flat-square" alt="Axum (L) with Rust"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Cloud%20Functions&color=2A2A2A&logo=google-cloud&logoColor=E0E0E0&style=for-the-badge" alt="Cloud Functions (Google Cloud)"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Cloud%20Functions&color=2A2A2A&logo=google-cloud&logoColor=E0E0E0&style=flat-square" alt="Cloud Functions"/>
     </td>
-    <td align="center" width="33%">
-      </td>
-  </tr>
+    <td>...</td> </tr>
 </table>
+<br/>
 
-### Databases
+<img src="https://img.shields.io/static/v1?label=&message=Databases&color=4A4A4A&style=flat-square&logoColor=E0E0E0&labelColor=4A4A4A" alt="Databases Subheading"/>
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=2A2A2A&logo=postgresql&logoColor=E0E0E0&style=for-the-badge" alt="PostgreSQL"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Postgres&color=2A2A2A&logo=postgresql&logoColor=E0E0E0&style=flat-square" alt="PostgreSQL"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=2A2A2A&logo=mysql&logoColor=E0E0E0&style=for-the-badge" alt="MySQL"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=2A2A2A&logo=mysql&logoColor=E0E0E0&style=flat-square" alt="MySQL"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=2A2A2A&logo=mongodb&logoColor=E0E0E0&style=for-the-badge" alt="MongoDB"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=2A2A2A&logo=mongodb&logoColor=E0E0E0&style=flat-square" alt="MongoDB"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Firestore&color=2A2A2A&logo=firebase&logoColor=E0E0E0&style=for-the-badge" alt="Firestore"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Firestore&color=2A2A2A&logo=firebase&logoColor=E0E0E0&style=flat-square" alt="Firestore"/>
     </td>
-    <td align="center" width="33%">
-      </td>
-    <td align="center" width="33%">
-      </td>
-  </tr>
+    <td>...</td> <td>...</td> </tr>
 </table>
+<br/>
 
-### Cloud, DevOps & Tools
+<img src="https://img.shields.io/static/v1?label=&message=Cloud%2C%20DevOps%20%26%20Tools&color=4A4A4A&style=flat-square&logoColor=E0E0E0&labelColor=4A4A4A" alt="Cloud, DevOps & Tools Subheading"/>
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Google%20Cloud&color=2A2A2A&logo=google-cloud&logoColor=E0E0E0&style=for-the-badge" alt="Google Cloud"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=GCP&color=2A2A2A&logo=google-cloud&logoColor=E0E0E0&style=flat-square" alt="Google Cloud Platform"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2A2A2A&logo=docker&logoColor=E0E0E0&style=for-the-badge" alt="Docker"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2A2A2A&logo=docker&logoColor=E0E0E0&style=flat-square" alt="Docker"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Git&color=2A2A2A&logo=git&logoColor=E0E0E0&style=for-the-badge" alt="Git"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Git&color=2A2A2A&logo=git&logoColor=E0E0E0&style=flat-square" alt="Git"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Langflow&color=2A2A2A&logo=apache-airflow&logoColor=E0E0E0&style=for-the-badge" alt="Langflow (AI/LLM Prototyping)"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Langflow%20(L)&color=2A2A2A&logo=apache-airflow&logoColor=E0E0E0&style=flat-square" alt="Langflow (L) - Orchestrating brilliance, one node at a time."/>
     </td>
-    <td align="center" width="33%">
-      </td>
-    <td align="center" width="33%">
-      </td>
-  </tr>
+    <td>...</td> <td>...</td> </tr>
 </table>
+<br/>
 
-### Game & 3D Development (Academic Experience)
+<img src="https://img.shields.io/static/v1?label=&message=Game%20%26%203D%20Development%20(Academic)&color=4A4A4A&style=flat-square&logoColor=E0E0E0&labelColor=4A4A4A" alt="Game & 3D Development (Academic Experience) Subheading"/>
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Unity&color=2A2A2A&logo=unity&logoColor=E0E0E0&style=for-the-badge" alt="Unity"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Unity&color=2A2A2A&logo=unity&logoColor=E0E0E0&style=flat-square" alt="Unity"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Maya&color=2A2A2A&logo=autodesk&logoColor=E0E0E0&style=for-the-badge" alt="Maya"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Maya&color=2A2A2A&logo=autodesk&logoColor=E0E0E0&style=flat-square" alt="Maya"/>
     </td>
-    <td align="center" width="33%">
-      </td>
-  </tr>
+    <td>...</td> </tr>
 </table>
+<br/>
 
-### Creative Suite
+<img src="https://img.shields.io/static/v1?label=&message=Creative%20Suite&color=4A4A4A&style=flat-square&logoColor=E0E0E0&labelColor=4A4A4A" alt="Creative Suite Subheading"/>
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Photoshop&color=2A2A2A&logo=adobe-photoshop&logoColor=E0E0E0&style=for-the-badge" alt="Adobe Photoshop"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Photoshop&color=2A2A2A&logo=adobe-photoshop&logoColor=E0E0E0&style=flat-square" alt="Adobe Photoshop"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Illustrator&color=2A2A2A&logo=adobe-illustrator&logoColor=E0E0E0&style=for-the-badge" alt="Adobe Illustrator"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Illustrator&color=2A2A2A&logo=adobe-illustrator&logoColor=E0E0E0&style=flat-square" alt="Adobe Illustrator"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=DaVinci%20Resolve&color=2A2A2A&logo=davinciresolve&logoColor=E0E0E0&style=for-the-badge" alt="DaVinci Resolve"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=DaVinci%20Resolve&color=2A2A2A&logo=davinciresolve&logoColor=E0E0E0&style=flat-square" alt="DaVinci Resolve"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=Premiere%20Pro&color=2A2A2A&logo=adobe-premiere-pro&logoColor=E0E0E0&style=for-the-badge" alt="Adobe Premiere Pro"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=Premiere%20Pro&color=2A2A2A&logo=adobe-premiere-pro&logoColor=E0E0E0&style=flat-square" alt="Adobe Premiere Pro"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/static/v1?label=&message=After%20Effects&color=2A2A2A&logo=adobe-after-effects&logoColor=E0E0E0&style=for-the-badge" alt="Adobe After Effects"/>
+    <td>
+      <img src="https://img.shields.io/static/v1?label=&message=After%20Effects&color=2A2A2A&logo=adobe-after-effects&logoColor=E0E0E0&style=flat-square" alt="Adobe After Effects"/>
     </td>
-    <td align="center" width="33%">
-      </td>
-  </tr>
+    <td>...</td> </tr>
 </table>
 
 ---
