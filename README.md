@@ -26,7 +26,7 @@
 
 <div align="center">
 
-> CH crafts the vision with Clarity & Harmony. The 'X'? That's the eXtraordinary results I bring to life. Ready to see yours?
+> CH crafts the vision with Clarity & Harmony. The 'X'? That's the eXtraordinary results I bring to life.
 
 </div>
 
