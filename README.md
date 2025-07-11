@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&reversal=true&color=0:1A1A1A,50:2A2A2A,100:383838&fontColor=E0E0E0&fontSize=40&desc=Founder+of+Cortana+Technologies&animation=fadeIn&section=footer" alt="Let's Build With Integrity">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&reversal=true&color=0:1A1A1A,50:2A2A2A,100:383838&fontColor=E0E0E0&fontSize=40&desc=Cortana+Technologies&animation=fadeIn&section=footer" alt="Let's Build With Integrity">
 </div>
 
 ###
