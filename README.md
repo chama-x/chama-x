@@ -128,8 +128,8 @@ Original repository: github.com/chama-x | Portfolio: cortana.lk | Sri Lankan Inn
 <!-- Any unauthorized modification is prohibited -->
 
 > CH crafts the vision with Clarity & Harmony. The 'X'? That's the eXtraordinary results I bring to life.
-> 
-> **⚠️ COPYRIGHT PROTECTED ⚠️** - This template design is the intellectual property of Chamath Thiwanka (CHX)
+
+<!-- **⚠️ COPYRIGHT PROTECTED ⚠️** - This template design is the intellectual property of Chamath Thiwanka (CHX) -->
 
 </div>
 
