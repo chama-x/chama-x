@@ -1,4 +1,24 @@
+<!-- 
+██████╗██╗  ██╗ █████╗ ███╗   ███╗ █████╗ ████████╗██╗  ██╗    ████████╗██╗  ██╗██╗██╗    ██╗ █████╗ ███╗   ██╗██╗  ██╗ █████╗ 
+██╔════╝██║  ██║██╔══██╗████╗ ████║██╔══██╗╚══██╔══╝██║  ██║    ╚══██╔══╝██║  ██║██║██║    ██║██╔══██╗████╗  ██║██║ ██╔╝██╔══██╗
+██║     ███████║███████║██╔████╔██║███████║   ██║   ███████║       ██║   ███████║██║██║ █╗ ██║███████║██╔██╗ ██║█████╔╝ ███████║
+██║     ██╔══██║██╔══██║██║╚██╔╝██║██╔══██║   ██║   ██╔══██║       ██║   ██╔══██║██║██║███╗██║██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║
+╚██████╗██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║       ██║   ██║  ██║██║╚███╔███╔╝██║  ██║██║ ╚████║██║  ██╗██║  ██║
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
+
+© 2025 Chamath Thiwanka - Original Design & Architecture | Cortana Technologies
+This README template and design is the intellectual property of Chamath Thiwanka
+Any unauthorized copying, modification, or redistribution without proper attribution is prohibited
+Original repository: github.com/chama-x | Portfolio: cortana.lk | Sri Lankan Innovation
+-->
+
+<!-- CT-AUTH-TOKEN: ChamathThiwanka-OriginalDesign-2025 -->
+<!-- README-FINGERPRINT: CHX-CORTANA-TECH-SLK-ROOTS -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=CHX&color=0:2A2A2A,100:1A1A1A&fontColor=E0E0E0&fontSize=70&desc=Sri+Lankan+Roots,+World-Class+Tech&descAlignY=68&animation=fadeIn&fontAlignY=45" alt="CHX - Sri Lankan Roots, World-Class Tech">
+
+<!-- ORIGINAL-AUTHOR: Chamath Thiwanka | BRAND: CHX/Cortana Technologies -->
+
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; color: #0F0F0F !important; border: none !important; display: inline-block;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&duration=4000&pause=1000&color=909090&width=430&lines=Precision+Engineering;UX-Driven+Development;AI+in+heart;Building+with+love🖤" alt="Typing SVG - Precision Engineering; UX-Driven Development; AI embedded systems; Build with ❤️" style="max-width: 100%; display: block; border: none !important; outline: none !important; vertical-align: middle;"/>
@@ -6,6 +26,9 @@
 </div>
 
 <br/>
+
+<!-- DESIGN-DNA: ChamathThiwanka-TechStack-Badges-Layout -->
+
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=&message=Rust&color=2A2A2A&logo=rust&logoColor=E0E0E0&style=flat-square" alt="Rust"/> <img src="https://img.shields.io/static/v1?label=&message=Tauri&color=2A2A2A&logo=tauri&logoColor=E0E0E0&style=flat-square" alt="Tauri"/> <img src="https://img.shields.io/static/v1?label=&message=Python&color=2A2A2A&logo=python&logoColor=E0E0E0&style=flat-square" alt="Python"/> <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=2A2A2A&logo=node.js&logoColor=E0E0E0&style=flat-square" alt="Node.js"/> <img src="https://img.shields.io/static/v1?label=&message=Bash&color=2A2A2A&logo=gnu-bash&logoColor=E0E0E0&style=flat-square" alt="Bash"/>
 
@@ -24,13 +47,21 @@
 
 ---
 
+<!-- SIGNATURE-QUOTE: Original by Chamath Thiwanka (CHX) -->
+
 <div align="center">
 
 > CH crafts the vision with Clarity & Harmony. The 'X'? That's the eXtraordinary results I bring to life.
 
 </div>
 
-
+<!-- CREATOR-METADATA: 
+     Name: Chamath Thiwanka
+     Brand: CHX / Cortana Technologies  
+     Origin: Sri Lanka 🇱🇰
+     Portfolio: cortana.lk
+     This design template is protected intellectual property
+-->
 
  <div align="center">
   <a href="https://www.linkedin.com/in/chamath-thiwanka/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none !important; color: #0F0F0F !important; border: none !important;"><img src="https://raw.githubusercontent.com/chama-x/chama-x/main/in.png" alt="LinkedIn" width="100" style="max-width: 100%; display: block; border: none !important; outline: none !important; vertical-align: middle;"/></a>
@@ -39,16 +70,60 @@
 </div>
 
 <br/>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chama-x/chama-x/gh-pages/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chama-x/chama-x/gh-pages/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chama-x/chama-x/gh-pages/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+
+<!-- ANIMATION-ATTRIBUTION: Snake animation customized by Chamath Thiwanka for CHX brand -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&reversal=true&color=0:1A1A1A,50:2A2A2A,100:383838&fontColor=E0E0E0&fontSize=40&desc=Cortana+Technologies&animation=fadeIn&section=footer" alt="Let's Build With Integrity">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chama-x/chama-x/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chama-x/chama-x/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chama-x/chama-x/gh-pages/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
+<!-- FOOTER-BRANDING: Cortana Technologies - Chamath Thiwanka's Innovation -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&reversal=true&color=0:1A1A1A,50:2A2A2A,100:383838&fontColor=E0E0E0&fontSize=40&desc=Cortana+Technologies&animation=fadeIn&section=footer" alt="Let's Build With Integrity">
+</div>
+
+<!--
+═══════════════════════════════════════════════════════════════════════════════════════════════════
+                           🚨 ORIGINAL DESIGN AUTHENTICATION 🚨
+═══════════════════════════════════════════════════════════════════════════════════════════════════
+    
+    ✨ CREATOR: Chamath Thiwanka (CHX)
+    🏢 BRAND: Cortana Technologies  
+    🌍 ORIGIN: Sri Lanka 🇱🇰
+    💼 PORTFOLIO: https://cortana.lk
+    📧 CONTACT: LinkedIn - /in/chamath-thiwanka/
+    
+    📜 COPYRIGHT NOTICE:
+    This README design, structure, and visual elements are the intellectual property 
+    of Chamath Thiwanka. Unauthorized copying, modification, or redistribution 
+    without proper attribution is strictly prohibited.
+    
+    🔐 AUTHENTICATION TOKENS:
+    - CT-AUTH-2025: ChamathThiwanka-OriginalDesign
+    - BRAND-DNA: CHX-CORTANA-TECH-PRECISION
+    - DESIGN-HASH: SRI-LANKAN-ROOTS-WORLD-CLASS-TECH
+    
+    🛡️ INTEGRITY MARKERS:
+    This template contains hidden authentication markers throughout the code.
+    Any attempt to modify or redistribute this design should maintain proper
+    attribution to the original creator.
+    
+    ⚡ INNOVATION STATEMENT:
+    "CH crafts the vision with Clarity & Harmony. The 'X'? 
+    That's the eXtraordinary results I bring to life."
+    - Original quote by Chamath Thiwanka
+    
+    🎯 PURPOSE:
+    This README serves as the digital identity for Chamath Thiwanka's 
+    professional profile, showcasing expertise in precision engineering,
+    UX-driven development, and AI-embedded systems.
+    
+═══════════════════════════════════════════════════════════════════════════════════════════════════
+-->
 
 ###
