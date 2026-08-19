@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Chamath Thiwanka — the middle layer between frontier models and everyday software" width="100%">
-</p>
-
 # Chamath Thiwanka
 
 I bridge the gap between frontier models and the software people actually use every day.
 
-**Founder, [Cortana (Pvt.) Ltd.](https://cortana.lk)** · Sri Lanka
+**Founder, [Cortana (Pvt.) Ltd.](https://cortana.lk)** · Sri Lanka  
 Building with LLMs since the GPT-3 API era (OpenAI researcher credits, pre-ChatGPT).
 
 ---
