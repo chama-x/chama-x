@@ -62,5 +62,4 @@
 - **Client Permission:** Confirmed GRANTED by Chamath.
 - **Repos Verified:** `blackrock-ops`, `spatial-agents`, `openworldeye` (cloned), `case-studies` (scaffolded).
 - **Case Study:** Paused locally per user instruction until explicitly initiated.
-- **OpenWorldEye Deployment:** Live and verified at `https://openworldeye.vercel.app`. Proxy rewrites returning live CelesTrak TLE and ADSB data with zero CORS issues.
-- **Spatial Agents Prep:** Performed secrets audit, created `.env.example`, and drafted public README adhering to sprint formatting rules.
+- **Profile Layout Refined:** Removed artificial SVG banner for a clean, human-first typographic layout leading directly into the 2×2 project evidence grid. Live demo links and verified email active.
