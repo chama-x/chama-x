@@ -3,7 +3,7 @@
 I bridge the gap between frontier models and the software people actually use every day.
 
 **Founder, [Cortana (Pvt.) Ltd.](https://cortana.lk)** · Sri Lanka  
-Building with LLMs since the GPT-3 API era (OpenAI researcher credits, pre-ChatGPT).
+Building with LLMs since text-davinci-002
 
 ---
 
